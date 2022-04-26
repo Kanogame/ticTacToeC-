@@ -1,0 +1,20 @@
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\bin\Debug\TiсTacToe.exe.config
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\bin\Debug\TiсTacToe.exe
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\bin\Debug\TiсTacToe.pdb
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.csproj.AssemblyReference.cache
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.MainForm.resources
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.Properties.Resources.resources
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.csproj.GenerateResource.cache
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.exe
+C:\Users\Win10m\source\repos\TiсTacToe\TiсTacToe\obj\Debug\TiсTacToe.pdb
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\bin\Debug\TiсTacToe.exe.config
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\bin\Debug\TiсTacToe.exe
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\bin\Debug\TiсTacToe.pdb
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.MainForm.resources
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.Properties.Resources.resources
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.csproj.GenerateResource.cache
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.csproj.CoreCompileInputs.cache
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.exe
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.pdb
+C:\Users\kano\Desktop\Новая папка (3)\TiсTacToe\obj\Debug\TiсTacToe.csprojAssemblyReference.cache
